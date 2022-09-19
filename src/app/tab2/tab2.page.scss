@@ -1,0 +1,26 @@
+/* Add application styles & imports to this file! */
+@import "~@ionic/angular/css/ionic.bundle.css";
+
+ion-content{
+  --background: none;
+  background-image: url('https://sm.ign.com/ign_br/news/e/elden-ring/elden-rings-new-summoning-mechanic-wont-make-the-game-easier_4qv1.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  --color: white;
+  
+}
+ion-toolbar{
+  --background: black;
+  --color: yellow;
+}
+.texto{
+  margin-top: 290px;
+  text-align: center;
+}
+.texto2{
+  margin-top: 160px;
+  text-align: center;
+}
+
+
